@@ -1,0 +1,188 @@
+{
+    "status": "ok",
+    "totalResults": 14,
+    "articles": [
+        {
+            "source": {
+                "id": "der-tagesspiegel",
+                "name": "Der Tagesspiegel"
+            },
+            "author": "Der Tagesspiegel",
+            "title": "Offenbar „persönliche Gründe“: Mann tötet Sicherheitschef der aserbaidschanischen Botschaft im Iran",
+            "description": "Weil seine Frau angeblich dort festgehalten wird, griff ein Iraner in der afghanischen Botschaft seines Landes Sicherheitskräfte an. Eine Person starb, zwei weitere wurden verletzt.",
+            "url": "https://www.tagesspiegel.de/internationales/offenbar-personliche-grunde-mann-totet-sicherheitschef-der-aserbaidschanischen-botschaft-im-iran-9253053.html",
+            "urlToImage": "https://www.tagesspiegel.de/images/protest-gegen-das-iranische-regime/alternates/BASE_16_9_W1400/protest-gegen-das-iranische-regime.jpeg",
+            "publishedAt": "2023-01-27T16:26:37+00:00",
+            "content": "Ein bewaffneter Mann hat den Sicherheitschef der aserbaidschanischen Botschaft im Iran getötet. Zwei weitere Sicherheitskräfte seien verletzt worden, teilte das aserbaidschanische Außenministerium am… [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Wirtschaftswoche",
+            "title": "49-Euro-Monatsticket soll zum 1. Mai 2023 kommen",
+            "description": "Nach langwierigen Diskussionen haben sich Bund und Länder auf einen Starttermin des deutschlandweiten 49-Euro-Tickets festgelegt.",
+            "url": "https://www.wiwo.de/politik/deutschland/49-euro-ticket-bund-und-laender-einig-49-euro-monatsticket-soll-zum-1-mai-kommen/28949386.html",
+            "urlToImage": "https://www.wiwo.de/images/vorbereitungen-auf-49-euro-ticket/28949394/2-format11240.jpg",
+            "publishedAt": "2023-01-27T16:02:34+00:00",
+            "content": "Bund und Länder haben sich am Freitag auf einen Start des 49-Euro-Monatstickets zum 1. Mai geeinigt. Das, was viele sich wünschen, wird zum 1. Mai Realität, sagte der Vorsitzende der Verkehrsminister… [+594 chars]"
+        },
+        {
+            "source": {
+                "id": "la-nacion",
+                "name": "La Nacion"
+            },
+            "author": null,
+            "title": "Preocupados por la marcha convocada a Lago Escondido, un grupo de vecinos pide que intervenga la gobernadora",
+            "description": "Le enviaron una carta en la que sostuvieron, sobre manifestaciones anteriores: “Grupos violentos nos han roto alambrados, lesionado vecinos, carneado animales”; la próxima movilización empieza el lunes próximo",
+            "url": "http://www.lanacion.com.ar/politica/preocupados-por-la-marcha-convocada-a-lago-escondido-un-grupo-de-vecinos-pide-que-intervenga-la-nid27012023/",
+            "urlToImage": "https://resizer.glanacion.com/resizer/R8z7FeZiaN9EREi5jGp-LNHBqaA=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/V2EE7CC6XBC7FJVKCNFDLC6JGQ.jpg",
+            "publishedAt": "2023-01-27T15:53:58.653Z",
+            "content": "En una carta dirigida a la gobernadora Arabela Carreras, un grupo de vecinos autoconvocados de El Foyel -unos 80 kilómetros al sur de San Carlos de Bariloche- manifestó su preocupación a pocos días d… [+5133 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-it",
+                "name": "Google News (Italy)"
+            },
+            "author": "Redazione Spettacoli",
+            "title": "Sanremo, il fronte contro Zelensky: da Matteo Salvini a Fabio Volo, chi non lo vuole al Festival",
+            "description": "Il leader ucraino interverrà alla serata finale con un video registrato di un paio di minuti",
+            "url": "https://www.corriere.it/spettacoli/festival-sanremo/notizie/sanremo-tutti-nemici-zelensky-matteo-salvini-fabio-volo-chi-non-vuole-festival-a456be6e-9e27-11ed-b818-21dee78ee2f7.shtml",
+            "urlToImage": "https://images2.corriereobjects.it/methode_image/socialshare/2023/01/27/4fd5c71c-9e32-11ed-b818-21dee78ee2f7.jpg",
+            "publishedAt": "2023-01-27T14:37:43+00:00",
+            "content": "di Redazione SpettacoliIl leader ucraino interverr alla serata finale con un video registrato di un paio di minuti\r\nIl fronte non netto, ci sono politici di diversi schieramenti - dalla Lega al Movim… [+4435 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "Zelensky a Sanremo, si allarga il fronte del no. Calenda e Conte: \"È una guerra. Festival contesto troppo leg…",
+            "description": null,
+            "url": "https://www.repubblica.it/politica/2023/01/27/news/zelensky_ospite_sanremo_calenda_conte_cuperlo-385326560/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/01/27/150502436-deb125eb-6415-4266-8b86-6df8ea8b211f.jpg",
+            "publishedAt": "2023-01-27T14:08:31Z",
+            "content": "Si allarga il fronte del 'no' a Zelensky ospiti a Sanremo. Dopo Matteo Salvini, Beppe Grillo, Alessandro Di Battista, Carlo Freccero, Maurizio Gasparri, Vauro Senesi, Fabio Volo, solo per citare i vo… [+1149 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn-es",
+                "name": "CNN Spanish"
+            },
+            "author": "CNN",
+            "title": "La asediada presidenta de Perú, Dina Boluarte, pudo haber aliviado la crisis, pero en cambio la agravó. ¿Qué sucedió?",
+            "description": "Cuando Dina Boluarte fue nombrada como la sexta presidenta de Perú en cinco años, enfrentó batallas en dos frentes: calmar a los políticos de su país y calmar a los manifestantes enfurecidos por el derrocamiento de otro presidente en pocos años.",
+            "url": "https://cnnespanol.cnn.com/2023/01/27/analisis-peru-dina-boluarte-crisis-agravo-que-sucedio-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/01/boluarte-peru-protests.jpeg?quality=100&strip=info",
+            "publishedAt": "2023-01-27T12:41:08Z",
+            "content": "¿Por qué el Perú está crisis?, un análisis de Francisco Sagasti 1:33\r\n(CNN) -- Cuando Dina Boluarte fue nombrada como la sexta presidenta de Perú en cinco años, enfrentó batallas en dos frentes: prim… [+10667 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "Sanremo 2023, da Gorbaciov a Grillo: tutte le volte che la politica (e la guerra) sono arrivate all'Ariston",
+            "description": "La partecipazione del Premio Nobel per la Pace al Festival nel 1999 e il precedente della seconda guerra del Golfo nel 2003",
+            "url": "https://www.repubblica.it/spettacoli/tv-radio/2023/01/27/news/sanremo_2023_politica_guerra_musica-385289025/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/01/27/101942273-f9ae6b39-cf18-4c29-bdf5-8d37e8aa301d.jpg",
+            "publishedAt": "2023-01-27T09:42:58Z",
+            "content": "La partecipazione in video del presidente ucraino Zelensky al Festival di Sanremo è solo l'ultimo capitolo dell'intreccio tra Ariston e politica (internazionale e non). Non cera di mezzo una guerra c… [+4786 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "La Repubblica",
+            "title": "\"Il pupazzo Zelensky\", di Salvini-Di Battista, cantano Ovadia e Vauro. Ma l'odio per Kiev non c'entra con San…",
+            "description": "La campagna contro il leader ucraino al festival si fonda su una tesi coltivata da mesi: la guerra per procura\n\nQuesto è il numero di venerdì 27 …",
+            "url": "https://www.repubblica.it/politica/2023/01/27/news/zelensky_sanremo_polemiche_salvini_ovadia_vauro-385294076/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/01/27/101925398-1ef353b3-56e8-4c8d-b115-2c25e700ee28.jpg",
+            "publishedAt": "2023-01-27T09:28:39Z",
+            "content": "In Italia, se si vuole avere un'idea di quanto e come stanno circolando le bufale, le teorie complottiste, le dietrologie più viete, le tesi \"controcorrente\", bisogna salire su un taxi. Provate a riv… [+270 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Marion Dupont",
+            "title": "Affaire Bastien Vivès : « La valeur morale d’une œuvre fait partie de sa valeur artistique »",
+            "description": "André Gunthert, historien des cultures visuelles, et Carole Talon-Hugon, philosophe spécialiste d’esthétique, éclairent, dans un entretien au « Monde », les vifs débats qui agitent le monde de la BD et de l’art, avec la polémique au Festival d’Angoulême sur l…",
+            "url": "https://www.lemonde.fr/idees/article/2023/01/27/affaire-bastien-vives-la-valeur-morale-d-une-uvre-fait-partie-de-sa-valeur-artistique_6159483_3232.html",
+            "urlToImage": "https://img.lemde.fr/2023/01/26/18/0/4006/2670/1440/960/60/0/07b5cd8_1674750723852-andrei-gunthert.jpeg",
+            "publishedAt": "2023-01-27T03:00:10Z",
+            "content": "Avec laffaire Bastien Vivès, cest au tour de la bande dessinée dêtre le théâtre de revendications éthiques et politiques bien après le cinéma, le théâtre, ou lart contemporain. Lannonce de la program… [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Beth JoJack",
+            "title": "Atherosclerotic cardiac disease (ASCVD): Are people receiving appropriate treatment?",
+            "description": "A study found that a large number of people with atherosclerotic cardiac disease (ASCVD) don't receive recommended treatments such as prescriptions for statins, aspirin, or lifestyle counseling.",
+            "url": "http://www.medicalnewstoday.com/articles/atherosclerotic-cardiac-disease-ascvd-heart-treatment-underused",
+            "urlToImage": "https://assets.medicalnewstoday.com/content/mnt_sharing.png",
+            "publishedAt": "2023-01-26T22:55:00Z",
+            "content": "<ul><li>In 2013, new guidelines were issued for managing cholesterol to reduce the risk of developing atherosclerotic cardiac disease (ASCVD) </li><li>In a new study, researchers analyzed data from t… [+8699 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Meet the startups representing the best of Northern Dutch tech",
+            "description": "The road to TNW Conference 2023 has started! With only five months to go until Europe’s leading tech festival, TNW is touring several up-and-coming tech hubs across the Netherlands ...",
+            "url": "http://thenextweb.com/news/meet-startups-representing-best-of-northern-dutch-tech",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FUntitled-design-97-11.jpg&signature=01951469fbba228711829a4bc1c44651",
+            "publishedAt": "2023-01-24T16:16:36Z",
+            "content": "The road to TNW Conference 2023 has started! With only five months to go until Europes leading tech festival, TNW is touring several up-and-coming tech hubs across the Netherlands to uncover the best… [+7310 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Music festival lineups 2023: Bonnaroo, Coachella, New Orleans Jazz Fest and more summer festivals",
+            "description": "Tickets, camping and hotel packages for music festivals such as Coachella, Bonnaroo, New Orleans Jazz Fest and Rock Fest in Wisconsin are on sale.",
+            "url": "https://www.usatoday.com/story/entertainment/music/2023/01/10/music-festival-lineups-2023-bonnaroo-coachella/11025708002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/05/08/USAT/38e12ddb-bb58-4727-8de8-2172a879faa1-AP_2022_New_Orleans_Jazz_and_Heritage_Festival_-_Weekend_1_-_Da-54.jpg?auto=webp&crop=3499,1969,x0,y349&format=pjpg&width=1200",
+            "publishedAt": "2023-01-23T06:42:45+00:00",
+            "content": "With the announcement of the lineups for Coachella and the Bonnaroo Music &amp; Arts Festival, it's time to start making plans for spring and summer music festivities.\r\nCoachella, held over two weeke… [+7849 chars]"
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": null,
+            "title": "Köln: Vater wegen Totschlags festgenommen – Baby starb! | Regional",
+            "description": "Er soll sein Baby so schwer verletzt haben, dass es nicht überlebte: Am Mittwochabend nahm die Polizei den Vater (19) in Nippes fest.",
+            "url": "http://www.bild.de/regional/koeln/koeln-aktuell/seine-tochter-6-wochen-wird-sterben-vater-wegen-totschlags-festgenommen-82264380.bild.html",
+            "urlToImage": "https://images.bild.de/639b136bc1400d3a0bf12cd8/c46d9940ff7d4dc4ab554ee2da4f3a6d,689b9fcb?w=1280",
+            "publishedAt": "2022-12-15T16:42:27Z",
+            "content": "Was für ein schreckliches Verbrechen, welche furchtbare Diagnose! \r\nKöln Ein 19-Jähriger soll sein Baby so schwer misshandelt haben, dass es zwei Tage später im Krankenhaus starb. Am Mittwochabend na… [+1044 chars]"
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "BENJAMIN SACK",
+            "title": "Krefeld: Rentner (85) in Wohnung getötet – Polizei nimmt Tatverdächtigen fest",
+            "description": "Krefeld – Ein Rentner (85) ist am Mittwochabend in einer Wohnung in Krefeld getötet worden.",
+            "url": "http://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/polizei-nimmt-tatverdaechtigen-fest-rentner-85-in-wohnung-getoetet-82260780.bild.html",
+            "urlToImage": "https://bilder.bild.de/fotos/hier-wird-der-tatverdaechtige-im-rollstuhl-abgefuehrt-9eefaef14b7c451fba94c09760b6bd43-82260838/Bild/7.bild.jpg?1671121805000",
+            "publishedAt": "2022-12-15T16:30:07Z",
+            "content": "Krefeld Am Mittwochabend wurde in Krefeld ein Rentner (85) offenbar von seinem Stiefsohn getötet. \r\nDer Tatverdächtige (64) sei vor Ort festgenommen worden, sagte eine Sprecherin der Polizei am Donne… [+258 chars]"
+        }
+    ]
+}
