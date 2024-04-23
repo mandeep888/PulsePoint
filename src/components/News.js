@@ -18,7 +18,7 @@ const News = (props)=> {
 
   useEffect(()=>{
     
-      document.title = `${capitalizeFirstLetter(props.category)} - NewsMonkey`
+      document.title = `${capitalizeFirstLetter(props.category)} - PulsePoint`
       updateNews();
   },[])
 
@@ -65,7 +65,7 @@ const News = (props)=> {
     return (
       <>
       <div className="container mt-3">
-        <h1 className='text-center' style={{ margin: "35px 0" , marginTop:"80px" }}>News Monkey - Top Headlines From {capitalizeFirstLetter(props.category)}</h1>
+        <h1 className='text-center' style={{ margin: "35px 0" , marginTop:"80px" }}>Pulse Point - Top Headlines From {capitalizeFirstLetter(props.category)}</h1>
         {loading && <Spinner/>} 
         <div className="row">
           {!loading && articles.map((element)=>{          
